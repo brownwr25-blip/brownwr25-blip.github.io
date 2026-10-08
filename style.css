@@ -101,11 +101,6 @@ ul.book {
     list-style-position: outside;
 }
 
-ul.phone {
-    list-style: "📱   ";
-    list-style-position: outside;
-}
-
 ul.paper {
     list-style: "⚡   ";
     list-style-position: outside;
